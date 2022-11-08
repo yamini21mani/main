@@ -1,0 +1,28 @@
+h1{
+    font-size:80px;
+}
+body{
+    background-color:white
+}
+.navbaralignment{
+    color:white;  
+    border-bottom:2px solid;
+    border-color:rgb(230, 224, 224);
+    }
+.alignmentbadge1{
+        border-radius: 2px;
+        padding: 0px 2in 10px 1.5in;
+        text-align: center;
+        color: lightblue;
+}
+        .alignmentbadge{
+            border-radius: 2px;
+            padding: 0px 2in 10px 1.5in;
+            text-align: center;
+        }
+table{
+    word-spacing: 10px;
+}
+a.hover{
+    color: brown;
+}

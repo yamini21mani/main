@@ -1,0 +1,29 @@
+body{
+    background-color:rgb(171, 215, 245);
+    margin-bottom: 2px solid;
+    padding-bottom: 2px solid;
+}
+.navbaralignment{
+color:cornsilk;
+border-top: 0.5in;
+border-color: black;
+
+}
+.alignmentbadge1{
+    border-radius: 2px;
+    padding: 0px 2in 10px 1.5in;
+    text-align: center;
+    color: lightblue;
+}
+.alignmentbadge{
+    border-radius: 2px;
+    padding: 0px 2in 10px 1.5in;
+    text-align: center;
+}
+.centeralignmenttext{
+    text-align: center;
+}
+.outerborder{
+    border-bottom: 2px solid;
+
+}

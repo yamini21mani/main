@@ -1,0 +1,40 @@
+#P{
+    color:blue; border: 2in;
+}
+div{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-style: italic; color:blueviolet;
+}
+.P1{
+    color:aqua;
+}
+h3{
+    font-style: oblique; color:crimson;
+}
+a:hover{
+    color:crimson;
+}
+P:hover{
+    color:blue;
+}
+form{
+    display:ruby-base;
+}
+html{
+    background-color: azure;
+}
+body{
+    border: 2in; background-color: aqua;
+    background-color: antiquewhite;
+    padding-left: 1in;
+    padding-right: 1in;
+    padding-top: 1in;
+    padding-bottom: 1in;
+    margin: 2in; border-color: black; color: darkblue; border: 1px; border-style:double;
+}
+.div1{
+    border: 1px; border-color: black; border-width: 100px;border-radius: 2px; align-content: center;
+}

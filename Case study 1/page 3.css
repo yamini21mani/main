@@ -1,0 +1,19 @@
+body{
+    background-color:white
+}
+.navbaralignment{
+    color:antiquewhite;  
+    border-bottom:2px solid;
+    border-color:burlywood;
+    }
+.alignmentbadge1{
+        border-radius: 2px;
+        padding: 0px 2in 10px 1.5in;
+        text-align: center;
+        color: lightblue;
+}
+        .alignmentbadge{
+            border-radius: 2px;
+            padding: 0px 2in 10px 1.5in;
+            text-align: center;
+        }
